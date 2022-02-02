@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">HiltExample</string>
+    <string name="img_content_desc">img_description</string>
 </resources>
